@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 300vh;
+}
+
+.bg{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAF3jvkhiHrC4W-Vu9J_0A1kvni4C5qZrj1w&s);
+    background-size: cover;
+    height: 600px;
+}
+
+.navbar{
+    position: sticky;
+    width: 100%;
+
+    padding: 30px;
+    top: 0px;
+}
+
+li{
+    display: inline;
+    padding: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.bgColor{
+    background-color:red;
+    color: black;
+    
+
+}
+
+    
